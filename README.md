@@ -6,11 +6,6 @@ A clean and responsive Notes application built with **React** and **Vite**, depl
 
 🔗 [View Live](https://Suvam20.github.io/Notes-App-Project)
 
-## 📸 Screenshots
-
-<!-- Add your screenshots here -->
-<!-- ![App Screenshot](./screenshots/app.png) -->
-
 ## ✨ Features
 
 - ✅ Create new notes
@@ -24,9 +19,7 @@ A clean and responsive Notes application built with **React** and **Vite**, depl
 - **React** — UI library
 - **Vite** — Build tool
 - **JavaScript** — Core language
-- **CSS** — Styling
+- **Tailwind** — Styling
 - **GitHub Pages** — Deployment
-
-## 📦 Installation & Setup
 
 ```bash
